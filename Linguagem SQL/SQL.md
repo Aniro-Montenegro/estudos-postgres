@@ -21,10 +21,28 @@ de dados de sistemas conectados ao banco.
 ````sql
 SELECT *campo*  FROM *tabela*
 ````
-````
+````sql
 SELECT NOME FROM TB_FUNCIONARIOS;
 ````
 >Resultado:
 <div>
-<img src="/Imagens/primeiro-select.png" style="width:800px;height:400px;">
+<img src="/Imagens/primeiro-select.png" style="width:800px;height:600px;">
+</div>
+
+> Podemos solicitar mais de um campo para ser exibido na consulta
+````sql
+SELECT NOME, CARGO FROM TB_FUNCIONARIOS;
+````
+>Resultado:
+<div>
+<img src="/Imagens/select-dois-campos.png" style="width:800px;height:600px;">
+</div>
+
+> Retornando todos os campos 
+````sql
+SELECT * FROM TB_FUNCIONARIOS;
+````
+>Resultado:
+<div>
+<img src="/Imagens/select-from.png" style="width:800px;height:600px;">
 </div>
