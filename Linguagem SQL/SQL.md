@@ -24,5 +24,5 @@ SELECT *campo*  FROM *tabela*
 ````
 SELECT NOME FROM TB_FUNCIONARIOS;
 ````
-Resultado:
-img src="Imagens\primeiro-select.png" style="width:400px;height:150px;">
+>Resultado:
+><img src="Imagens\primeiro-select.png" style="width:400px;height:150px;">
