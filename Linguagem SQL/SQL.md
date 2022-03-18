@@ -26,5 +26,5 @@ SELECT NOME FROM TB_FUNCIONARIOS;
 ````
 >Resultado:
 <div>
-<img src="/Imagens/primeiro-select.png" style="width:400px;height:150px;">
+<img src="/Imagens/primeiro-select.png" style="width:800px;height:400px;">
 </div>
